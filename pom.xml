@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>jp.reflexworks</groupId>
-  <artifactId>vtecx-common</artifactId>
+  <artifactId>vtecxj-common</artifactId>
   <version>9.0.0</version>
   <packaging>jar</packaging>
 
